@@ -1,0 +1,1 @@
+dotnet test "C:\Users\git\source\XploreAutomationIntegrations\XploreAutomationIntegrations\bin\Debug\net6.0\XploreAutomationIntegrations.dll" --filter "TestCategory=Sanity" -l "console;verbosity=detailed"
